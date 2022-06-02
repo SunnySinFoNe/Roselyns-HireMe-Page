@@ -1,0 +1,59 @@
+h2 {
+    color: #01A450;
+}
+
+h1 {
+    color: #00C99E;
+}
+
+h4 {
+    color: #7e529c;
+}
+
+.WEEE {
+    color: #461E61;
+    font-family: "Advent Pro", Times, serif;
+}
+
+h1 {
+    font-family: "Montserrat", Times, serif;
+     
+}
+
+h2 {
+    font-family: "Advent Pro", Times, serif;
+}
+
+img {
+    max-width: 500px;
+    height: auto;
+}
+
+body {
+    background-image: linear-gradient(#de9cff,#69cfb0 );
+}
+
+.Signature {
+    font-family: Anton;
+    color: #ffdb63;
+    text-align: center;
+}
+
+.Onmyown{
+    font-family: "Montserrat", Times, serif;
+}
+
+.WOOO{
+    text-align: center;
+}
+
+.MoveMe{
+    text-align: center;
+}
+
+.Tada{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 4px solid #d6ad31;
+}
